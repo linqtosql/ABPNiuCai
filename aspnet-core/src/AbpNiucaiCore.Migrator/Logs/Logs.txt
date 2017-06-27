@@ -1,0 +1,76 @@
+﻿DEBUG 2017-06-26 15:45:12,483 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-06-26 15:45:12,598 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2017-06-26 15:45:12,946 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpNiucaiCore.Migrator.AbpNiucaiCoreMigratorModule, AbpNiucaiCore.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:45:12,950 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpNiucaiCore.EntityFrameworkCore.AbpNiucaiCoreEntityFrameworkModule, AbpNiucaiCore.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:45:12,950 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpNiucaiCore.AbpNiucaiCoreCoreModule, AbpNiucaiCore.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:45:12,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:45:12,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:45:12,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:45:12,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:45:12,952 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:45:12,952 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:45:12,956 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2017-06-26 15:45:13,369 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: AbpNiucaiCore.EntityFrameworkCore.AbpNiucaiCoreDbContext, AbpNiucaiCore.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:45:15,032 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-06-26 15:45:15,192 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-06-26 15:45:15,206 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2017-06-26 15:45:15,211 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpNiucaiCore
+INFO  2017-06-26 15:45:15,259 [1    ] AbpNiucaiCore.Migrator.Log               - Host database: Server=localhost; Database=AbpNiucaiCoreDb; Trusted_Connection=True;
+INFO  2017-06-26 15:45:15,259 [1    ] AbpNiucaiCore.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+DEBUG 2017-06-26 15:46:41,115 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-06-26 15:46:41,296 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2017-06-26 15:46:41,716 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpNiucaiCore.Migrator.AbpNiucaiCoreMigratorModule, AbpNiucaiCore.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:46:41,725 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpNiucaiCore.EntityFrameworkCore.AbpNiucaiCoreEntityFrameworkModule, AbpNiucaiCore.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:46:41,727 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpNiucaiCore.AbpNiucaiCoreCoreModule, AbpNiucaiCore.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:46:41,728 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:46:41,728 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:46:41,729 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:46:41,730 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:46:41,732 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:46:41,733 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:46:41,743 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2017-06-26 15:46:42,627 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: AbpNiucaiCore.EntityFrameworkCore.AbpNiucaiCoreDbContext, AbpNiucaiCore.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-06-26 15:46:44,076 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-06-26 15:46:44,223 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-06-26 15:46:44,237 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2017-06-26 15:46:44,242 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpNiucaiCore
+INFO  2017-06-26 15:46:44,280 [1    ] AbpNiucaiCore.Migrator.Log               - Host database: server=192.168.1.184;User Id=root;password=huqian123;Database=niucaijj;CharSet=utf8;sslmode=none;Old Guids=true;
+INFO  2017-06-26 15:46:44,280 [1    ] AbpNiucaiCore.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2017-06-26 15:46:50,065 [1    ] AbpNiucaiCore.Migrator.Log               - HOST database migration started...
+INFO  2017-06-26 15:46:56,767 [1    ] AbpNiucaiCore.Migrator.Log               - An error occured during migration of host database:
+INFO  2017-06-26 15:46:56,825 [1    ] AbpNiucaiCore.Migrator.Log               - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet)
+   at MySql.Data.MySqlClient.MySqlDataReader.<ReadFirstResultSetAsync>d__62.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MySql.Data.MySqlClient.MySqlDataReader.<CreateAsync>d__61.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor.<ExecuteReaderAsync>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.MySqlRelationalCommand.<ExecuteAsync>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.MySqlRelationalCommand.Execute(IRelationalConnection connection, String executeMethod, IReadOnlyDictionary`2 parameterValues, Boolean closeConnection)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.Internal.MySqlModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.Internal.MySqlModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.MySqlBatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges()
+   at AbpNiucaiCore.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in F:\Project\AbpNiucaiCore\aspnet-core\src\AbpNiucaiCore.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 29
+   at AbpNiucaiCore.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in F:\Project\AbpNiucaiCore\aspnet-core\src\AbpNiucaiCore.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 19
+   at AbpNiucaiCore.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in F:\Project\AbpNiucaiCore\aspnet-core\src\AbpNiucaiCore.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at AbpNiucaiCore.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(AbpNiucaiCoreDbContext context) in F:\Project\AbpNiucaiCore\aspnet-core\src\AbpNiucaiCore.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction)
+   at AbpNiucaiCore.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in F:\Project\AbpNiucaiCore\aspnet-core\src\AbpNiucaiCore.Migrator\MultiTenantMigrateExecuter.cs:line 63
+INFO  2017-06-26 15:46:56,825 [1    ] AbpNiucaiCore.Migrator.Log               - Canceled migrations.
